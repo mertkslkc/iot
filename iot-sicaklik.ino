@@ -1,6 +1,6 @@
 /*
 
-BulutBilisimciler.com IoT Sıcaklık ve Nem uygulaması kodlarıdır....
+bulutbilisimciler.com IoT Sıcaklık ve Nem uygulaması kodlarıdır....
 Bu uygulamada DHT11 sıcaklık ve nem sensörü ile NodeMCU (ESP8266) kullanılmıştır.
 
 mertkislakci@gmail.com
